@@ -91,7 +91,7 @@ Garantir que o aplicativo guarde e sincronize todas as informações passadas pe
 
 > Conecte o chatbot à API de IA do Lovable para respostas mais inteligentes e personalizadas, substituindo o parser baseado em regex
 
-Resultado final no Lovable: https://dvns.lovable.app/auth
+Resultado final no Lovable: https://dvnsfinancas.lovable.app/auth
 
 <img width="485" height="938" alt="image" src="https://github.com/user-attachments/assets/89959b90-6571-419a-adbf-3e90476d9322" />
 
