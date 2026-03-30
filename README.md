@@ -92,7 +92,7 @@ Aplicativo disponível em:
 ### Print de Tela
 
 ### Tela de Login cadastro
-<img width="926" height="531" alt="image" src="https://github.com/user-attachments/assets/b1e75704-57a2-4711-8744-01da84c82993" />
+![Tela de Login](https://github.com/user-attachments/assets/b1e75704-57a2-4711-8744-01da84c82993)
 
 ### Tela de Inicio
 <img width="868" height="562" alt="image" src="https://github.com/user-attachments/assets/0081af5b-4816-424d-9655-e01456c7d8b8" />
